@@ -1,0 +1,34 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# MATLAB / Simulink
+*.asv
+*.m~
+slprj/
+*.slxc
+*.autosave
+*.mex*
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
