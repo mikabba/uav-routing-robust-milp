@@ -364,7 +364,7 @@ uav-routing-robust-milp/
 │   ├── routes_medium.png
 │   ├── routes_pessimistic.png
 │   └── routes_robust.png
-├── docs/
+├── docs/                  # optional documentation folder
 │   └── Presentazione - Optimization.pptx
 ├── reports/
 │   └── Relazione progetto Michele Abbaticchio - Ottimizzazione Multi-Obiettivo per il Routing di UAV in Missioni PISR con Incertezza.pdf
@@ -461,3 +461,4 @@ Possible extensions include:
 Michele Abbaticchio  
 MSc Automation Engineering  
 Politecnico di Bari
+
