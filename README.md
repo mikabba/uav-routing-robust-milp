@@ -16,7 +16,7 @@ The project formulates a persistent multi-UAV routing problem as a **Mixed-Integ
 
 A scenario-based robust counterpart is also implemented to handle uncertainty in task-priority weights across optimistic, medium and pessimistic operating conditions.
 <p align="center">
-  <img src="assets/overview_problem.png" alt="UAV routing overview" width="700"/>
+  <img src="assets/overview_problem.png" alt="UAV routing overview" width="400"/>
 </p>
 ---
 
