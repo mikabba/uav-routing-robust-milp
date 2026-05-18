@@ -1,9 +1,12 @@
 ﻿# Multi-objective UAV routing in persistent Intelligence, Surveillance and Reconnaissance (PISR) missions under uncertainty
 
-![MATLAB](https://img.shields.io/badge/MATLAB-Optimization-orange)
-![MILP](https://img.shields.io/badge/MILP-Mixed--Integer%20Linear%20Programming-blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2022a%2B-orange)
+![Optimization](https://img.shields.io/badge/Optimization-MILP-blue)
+![Solver](https://img.shields.io/badge/Solver-intlinprog%20%7C%20gamultiobj-9cf)
 ![Robust Optimization](https://img.shields.io/badge/Robust%20Optimization-Scenario--based-green)
-![Status](https://img.shields.io/badge/status-portfolio%20project-lightgrey)
+![Multi Objective](https://img.shields.io/badge/Multi--Objective-Pareto%20Front-purple)
+![Domain](https://img.shields.io/badge/Domain-UAV%20Routing-lightgrey)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Project-lightgrey)
 
 
 The project formulates a persistent multi-UAV routing problem as a **Mixed-Integer Linear Programming (MILP)** model. The objective is to assign task-visiting cycles to UAVs while balancing two conflicting requirements:
