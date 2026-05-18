@@ -423,12 +423,6 @@ run main.m
 
 The full academic report is available in:
 
-```text
-reports/
-```
-
-Direct files:
-
 - [Project report PDF](reports/Relazione%20progetto%20Michele%20Abbaticchio%20-%20Ottimizzazione%20Multi-Obiettivo%20per%20il%20Routing%20di%20UAV%20in%20Missioni%20PISR%20con%20Incertezza.pdf)
 ---
 
