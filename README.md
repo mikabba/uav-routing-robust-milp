@@ -1,11 +1,10 @@
-﻿# UAV Routing with Robust MILP
+﻿# Multi-objective UAV routing in persistent Intelligence, Surveillance and Reconnaissance (PISR) missions under uncertainty
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Optimization-orange)
 ![MILP](https://img.shields.io/badge/MILP-Mixed--Integer%20Linear%20Programming-blue)
 ![Robust Optimization](https://img.shields.io/badge/Robust%20Optimization-Scenario--based-green)
 ![Status](https://img.shields.io/badge/status-portfolio%20project-lightgrey)
 
-Research-style MATLAB project for **multi-objective UAV routing in persistent Intelligence, Surveillance and Reconnaissance (PISR) missions under uncertainty**.
 
 The project formulates a persistent multi-UAV routing problem as a **Mixed-Integer Linear Programming (MILP)** model. The objective is to assign task-visiting cycles to UAVs while balancing two conflicting requirements:
 
@@ -15,8 +14,6 @@ The project formulates a persistent multi-UAV routing problem as a **Mixed-Integ
 A scenario-based robust counterpart is also implemented to handle uncertainty in task-priority weights across optimistic, medium and pessimistic operating conditions.
 
 ---
-
-## 1. Abstract
 
 Persistent ISR missions require UAVs to periodically visit a set of spatially distributed task locations and return collected information to a control station. In this project, the mission is planned before execution: each UAV is assigned a cyclic route that is repeated over time.
 
