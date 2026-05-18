@@ -15,7 +15,9 @@ The project formulates a persistent multi-UAV routing problem as a **Mixed-Integ
 2. limiting the acquisition cost of the UAV fleet.
 
 A scenario-based robust counterpart is also implemented to handle uncertainty in task-priority weights across optimistic, medium and pessimistic operating conditions.
-
+<p align="center">
+  <img src="assets/overview_problem.png" alt="UAV routing overview" width="700"/>
+</p>
 ---
 
 Persistent ISR missions require UAVs to periodically visit a set of spatially distributed task locations and return collected information to a control station. In this project, the mission is planned before execution: each UAV is assigned a cyclic route that is repeated over time.
